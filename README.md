@@ -50,5 +50,5 @@ I specialize in securing products, applications, and AI systems with a focus on 
 <h2>📫 Connect with me</h2>
 
 <p>
-<a href="(https://www.linkedin.com/in/anthonynsaunders/)" target="_blank">LinkedIn</a>
+Connect with me on <a href="https://www.linkedin.com/in/anthonynsaunders/" target="_blank">LinkedIn</a>
 </p>
