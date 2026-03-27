@@ -45,6 +45,14 @@ I specialize in securing products, applications, and AI systems with a focus on 
   <li>ISC2 Certified in Cybersecurity (CC)</li>
 </ul>
 
+<p>
+View verified certifications on 
+<a href="https://www.credly.com/users/anthony-saunders.b6e944d3" target="_blank">
+Credly
+</a>
+</p>
+
+
 ---
 
 <h2>📫 Connect with me</h2>
