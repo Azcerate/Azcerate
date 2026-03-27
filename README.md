@@ -1,41 +1,54 @@
-<h1>Hi, I'm Anthony! 
+<h1>Hi, I'm Anthony Saunders 👋</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h3>Product Security | AI Security | Cybersecurity Professional</h3>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+<p>
+I specialize in securing products, applications, and AI systems with a focus on real-world risk, compliance, and engineering alignment.
+</p>
 
-<h2> Certifications</h2>
+---
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2>🔐 Featured Cybersecurity Projects</h2>
+
+<ul>
+  <li>
+    <b>AI Prompt Injection Security Lab</b><br>
+    Built a Flask-based application integrated with Azure OpenAI to detect and block prompt injection and adversarial inputs. Includes automated red-team testing and security reporting.
+  </li>
   
-<h2>📺 Popular YouTube Videos</h2>
+  <li>
+    <b>Active Directory Home Lab</b><br>
+    Hands-on lab environment for identity management, user provisioning, and domain security testing.
+  </li>
+</ul>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+---
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🧠 Core Focus Areas</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<ul>
+  <li>Product Security Engineering</li>
+  <li>Medical Device Security</li>
+  <li>AI / LLM Security</li>
+  <li>Threat Modeling (STRIDE)</li>
+  <li>GRC (NIST, ISO 27001, FDA)</li>
+</ul>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📜 Certifications</h2>
 
-Here are some ideas to get you started:
+<ul>
+  <li>CISM (ISACA)</li>
+  <li>CEH (EC-Council)</li>
+  <li>CompTIA Security+</li>
+  <li>ISC2 Certified in Cybersecurity (CC)</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2>📫 Connect with me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">LinkedIn</a>
+</p>
