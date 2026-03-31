@@ -16,12 +16,6 @@ I specialize in securing products, applications, and AI systems with a focus on 
     Built a Flask-based application integrated with Azure OpenAI to detect and block prompt injection and adversarial inputs. Includes automated red-team testing and security reporting.
   </li>
   
-  <li>
-    <b>Active Directory Home Lab</b><br>
-    Hands-on lab environment for identity management, user provisioning, and domain security testing.
-  </li>
-</ul>
-
 ---
 
 <h2>🧠 Core Focus Areas</h2>
