@@ -34,6 +34,7 @@ I specialize in securing products, applications, and AI systems with a focus on 
 
 <ul>
   <li>CISM (ISACA)</li>
+  <li>CISA (ISACA)</li>
   <li>CEH (EC-Council)</li>
   <li>CompTIA Security+</li>
   <li>ISC2 Certified in Cybersecurity (CC)</li>
