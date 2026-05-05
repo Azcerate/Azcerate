@@ -15,7 +15,10 @@ I specialize in securing products, applications, and AI systems with a focus on 
     <b>AI Prompt Injection Security Lab</b><br>
     Built a Flask-based application integrated with Azure OpenAI to detect and block prompt injection and adversarial inputs. Includes automated red-team testing and security reporting.
   </li>
-  
+   <li>
+    <b>SifraAI Security Studio v1.0 Beta</b><br>
+    SifraAI Security Studio is a GUI-first, authorization-based AI security testing platform for LLMs, RAG systems, agents, AI endpoints, and AI infrastructure.
+  </li>
 ---
 
 <h2>🧠 Core Focus Areas</h2>
