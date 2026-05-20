@@ -1,6 +1,6 @@
-<h1>Hi, I'm Anthony Saunders 👋</h1>
+<h1>Hi, I'm Anthony N. Saunders 👋</h1>
 
-<h3>Product Security | AI Security | Cybersecurity Professional</h3>
+<h3>Product Security Engineer | AI Security Engineer | Application Security Engineer</h3>
 
 <p>
 I specialize in securing products, applications, and AI systems with a focus on real-world risk, compliance, and engineering alignment.
