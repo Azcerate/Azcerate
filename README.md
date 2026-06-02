@@ -21,7 +21,7 @@ I build and lead product security programs that keep regulated, safety-critical 
     Flask application integrated with Azure OpenAI to detect and block prompt injection and adversarial inputs. Includes automated red-team testing and security reporting.
   </li>
   <li>
-    <b>SifraAI Security Studio v1.0 Beta</b><br>
+    <b>SifraAI Security Studio v1.0 Beta (in active development)</b><br>
     GUI-first, authorization-based AI security testing platform for LLMs, RAG systems, agents, AI endpoints, and AI infrastructure.
   </li>
   <li>
